@@ -1,5 +1,6 @@
 # The necessity of redesigning the international laws on the ethical approach to war due to the Information Revolution
 
+Computer Ethics - Paper - From the course held at PoliMi during the year 2021/2022. <br />
 Author: Edoardo Saputelli
 
 ## Abstract
